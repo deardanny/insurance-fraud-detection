@@ -1,0 +1,9 @@
+{
+  "selection_data": "out-of-fold training predictions",
+  "cost_threshold": 0.18,
+  "f1_threshold": 0.5326963067054749,
+  "test_modeled_cost_f1": 1657500.0,
+  "test_modeled_cost_cost": 724000.0,
+  "false_negative_cost_assumption": 15000,
+  "false_positive_cost_assumption": 500
+}
